@@ -1,0 +1,1 @@
+layer1 = iface.addRasterLayer("C:/Users/enuma/Desktop/Data Science opleiding/11 - Geodata/NE1_50M_SR.tif","basemap")
