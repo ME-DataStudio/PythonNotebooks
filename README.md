@@ -1,2 +1,2 @@
-# Python-excel
-Sources for working wiht excel files in python
+# mooc-setup
+Information for setting up for the Spark MOOC, and lab assignments for the course.
